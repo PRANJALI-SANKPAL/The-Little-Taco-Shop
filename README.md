@@ -1,3 +1,4 @@
+<h1>The Little Taco Shop</h1>
 # "HTML Project for Beginners"
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
